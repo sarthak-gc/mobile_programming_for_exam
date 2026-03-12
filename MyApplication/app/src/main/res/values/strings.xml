@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_hint">Enter First number</string>
+    <string name="second_hint">Enter Second number</string>
+    <string name="third_hint">Enter Third number</string>
+    <string name="add_all_three">Add all three</string>
+    <string name="subtract_all_three">Subtract all three</string>
+    <string name="your_result_is">Your result is:</string>
+</resources>
